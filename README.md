@@ -1,7 +1,7 @@
 # Rider Ranker
 A CLI-based supercross and motocross rider database and ranker. 
 ## Features
--Enter rider stats,
+- Enter rider stats
 - View individual profiles
 - Rank riders across multiple categories
 - Saves user entries to CSV file
